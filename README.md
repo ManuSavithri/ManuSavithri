@@ -18,7 +18,7 @@ I'm looking to work with teams building **AI-powered products that solve real-wo
 - 🔭 Currently exploring end-to-end ML pipelines, NLP, and Generative AI
 - 🌱 Building on foundations in classical ML, statistics, and data engineering
 - 💬 Ask me about Python, Scikit-learn, forecasting, or SQL/Power BI analytics
-- ⚡ Fun fact: 5+ hackathons and counting
+- ⚡ Fun fact: 5+ hackathons 
 
 ---
 
@@ -73,5 +73,5 @@ I'm looking to work with teams building **AI-powered products that solve real-wo
 ---
 
 <p align="center">
-  📫 Reach me at <a href="mailto:manusavithri710@gmail.com">manusavithri710@gmail.com</a> — my inbox is always open for a role, a project idea, or just to say hi.
+  📫 Reach me at <a href="mailto:manusavithri710@gmail.com">manusavithri710@gmail.com</a> — my inbox is always open for a role, a project idea, or any collab.
 </p>
